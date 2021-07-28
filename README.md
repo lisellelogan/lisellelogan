@@ -2,7 +2,10 @@
 
 <div align="center">
   
-  [![GitHub](https://img.shields.io/badge/-GitHub-white?style=flat-squaret&logo=GitHub&logoColor=black)](https://github.com/lisellelogan)
+  [![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white)](https://lisellelogan.medium.com/)
+  [![GitHub](https://img.shields.io/badge/-GitHub-white?style=flat-square&logo=GitHub&logoColor=black)](https://github.com/lisellelogan)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lisellelogan/)
+  [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:liselle.logan@gmail.com)
   
 </div>
 
