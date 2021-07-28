@@ -1,7 +1,9 @@
 <h1 align="center"> 👋 Hi! I'm Liselle! 🤓 </h1>
 
 <div align="center">
-  [![GitHub](https://img.shields.io/badge/-GitHub-white?style=flat-squaret&logo=GitHub&logoColor=black)] (https://github.com/lisellelogan)
+  
+  [![GitHub](https://img.shields.io/badge/-GitHub-white?style=flat-squaret&logo=GitHub&logoColor=black)](https://github.com/lisellelogan)
+  
 </div>
 
 <h3 align="center">💻 Full-Stack Web Developer 👩🏻‍💻</h3>
