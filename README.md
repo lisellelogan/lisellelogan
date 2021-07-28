@@ -13,7 +13,7 @@
 
 <div align="right">
   
-  [![Liselle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lisellelogan&theme=flag-india)](https://github.com/lisellelogan)
+  [![Liselle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lisellelogan&theme=flag-india&show_icons=true)](https://github.com/lisellelogan)
   
 </div>
 
