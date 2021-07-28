@@ -1,7 +1,12 @@
-<h1 align="center"> 👋 Hi! I'm Liselle! 👩🏻‍💻 </h1>
+<h1 align="center"> 👋 Hi! I'm Liselle! 🤓 </h1>
+
+<div align="center">
+  [![GitHub](https://img.shields.io/badge/-GitHub-white?style=flat-squaret&logo=GitHub&logoColor=black)](https://github.com/lisellelogan)
+</div>
+
+<h3 align="center">💻 Full-Stack Web Developer 👩🏻‍💻</h3>
 
 <!--
-**lisellelogan/lisellelogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
