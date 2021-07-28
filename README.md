@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Hi, I'm Liselle! 🤓 </h1>
 
-<img src="https://raw.githubusercontent.com/lisellelogan/lisellelogan/master/githubbanner.png" alt="Banner that says Liselle Logan Full-Stack Software Developer - Expanding my passion for helping people through medicine to helping others through software development!" />
+<img src="https://raw.githubusercontent.com/lisellelogan/lisellelogan/master/githubbanner.png" alt="Banner that says Liselle Logan Full-Stack Software Developer - Expanding my passion for helping people through medicine to helping others through software development!">
 
 <div align="center">
   
