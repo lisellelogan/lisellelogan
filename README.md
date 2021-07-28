@@ -10,18 +10,23 @@
   [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:liselle.logan@gmail.com)
   
 </div>
-
-<div align="right">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lisellelogan&layout=compact&border_color=FF5733&title_color=D85134&bg_color=FBE1DC)](https://github.com/lisellelogan) 
+<a href="https://github.com/lisellelogan">
+  <img width="43%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisellelogan&layout=compact&border_color=FF5733&title_color=D85134&bg_color=FBE1DC" alt="Liselle's Top Langs">
+</a>
+
+<a href="https://github.com/lisellelogan">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=lisellelogan&show_icons=true&icon_color=FF5733&border_color=FF5733&title_color=D85134&bg_color=FBE1DC" alt="Liselle's GitHub Stats">
+</a>
+
+<!--- adding launguage icons here
+<div align="center">
+  
+  <a href="https://reactjs.org/"><img border-style="solid" align="left" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"></a>
   
 </div>
 
-<div align="right">
-  
-  [![Liselle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lisellelogan&show_icons=true&icon_color=FF5733&border_color=FF5733&title_color=D85134&bg_color=FBE1DC)](https://github.com/lisellelogan)
-  
-</div>
+-->
 
 <!--
 
