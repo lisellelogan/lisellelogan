@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Hi! I'm Liselle! 🤓 </h1>
+<h1 align="center"> 👋 Hi, I'm Liselle! 🤓 </h1>
 
 <div align="center">
   
