@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Hi, I'm Liselle! 🤓 </h1>
+<h1 align="center"> 👋 Hi, I'm Liselle! 👩🏻‍💻 </h1>
 
 <img src="https://raw.githubusercontent.com/lisellelogan/lisellelogan/master/lisellebanner.png" alt="Banner that says Liselle Logan Full-Stack Software Developer - Expanding my passion for helping people through medicine to helping others through software development!">
 
@@ -10,8 +10,6 @@
   [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:liselle.logan@gmail.com)
   
 </div>
-
-<h3 align="center">💻 Full-Stack Web Developer 👩🏻‍💻</h3>
 
 <!--
 
