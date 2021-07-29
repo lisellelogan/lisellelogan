@@ -56,7 +56,16 @@
 <br/>
 
 <h2 align="center">Projects</h2>
+<div>
   
+  🐾 [The Social Pup](https://github.com/lisellelogan/the-social-pup-frontend)<br/>
+  
+  🌱 [smallbizsociety.](https://github.com/lisellelogan/small-biz-society-frontend)<br/>
+  
+  🐶 [Food for Fido](https://github.com/lisellelogan/food-for-fido)
+  
+</div>
+
 <br/>
   
 <h2 align="center">Some Things About Me</h2>
