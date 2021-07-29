@@ -11,6 +11,8 @@
   
 </div>
 
+<br/>
+
 <h2 align="center">My GitHub Metrics</h2>
 
 <div display="flex-container">
@@ -25,6 +27,7 @@
   
 </div>
 
+<br/>
 <br/>
 <br/>
 <br/>
@@ -49,19 +52,44 @@
    <code><a href="https://code.visualstudio.com/"><img width="9%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="Vscode icon"></a></code>
 
 </div>
-  
 
+<br/>
+  
+<h2 align="center">Some Things About Me</h2>
+
+🔭  I’m currently working on devloping my portfolio website utilizing React and SASS. 
+
+🌱  I’m currently learning more about how to style using SASS and I want to strengthen my knowledge in Python.
+📈  I'm also currently learning about Data Structures and Algorithms to solidify/add to my knowledge of CS fundamentals.
+
+👯  I’m looking to collaborate on small or wide scale projects in Front-end, Back-end, or Full-Stack development whose mission is to aid/improve the lives of our society!
+
+🤔  I’m looking for help/mentorship in the tech industry and/or constructive criticism on projects I have built and/or skills that I can improve/learn.
+
+<h4 align="center">
+  💬 Feel free to ask me about anything!<br/>
+     <em>I'll be happy to answer!</em> 🤓
+</h4> 
+
+<br/>
+<br/>
+
+<p align="center">😊 
+  <b>Pronouns:</b><br/>
+    💁🏻‍♀️ <em>She/Her/Hers</em>
+</p>
+
+<br/>
+<br/>
+
+<p align="center">
+  ⚡ <b>Fun fact: </b><br/>
+    I have a Pembroke Welsh Corgi Puppy named Beemo! 🐶<br/>
+      <em>(Name is from Adventure Time! <strong>Bonus points if you know what I'm taking about.</strong>)</em> 🤖 
+</p>
 
 <!--
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
