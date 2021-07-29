@@ -11,7 +11,7 @@
   
 </div>
 
-<div display="flex-box">
+<div display="flex">
   <a href="https://github.com/lisellelogan">
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisellelogan&layout=compact&border_color=FF5733&title_color=D85134&bg_color=FBE1DC" alt="Liselle's Top Langs">
   </a>
