@@ -13,7 +13,7 @@
 
 <div display="flex-box">
   <a href="https://github.com/lisellelogan">
-    <img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisellelogan&layout=compact&border_color=FF5733&title_color=D85134&bg_color=FBE1DC" alt="Liselle's Top Langs">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisellelogan&layout=compact&border_color=FF5733&title_color=D85134&bg_color=FBE1DC" alt="Liselle's Top Langs">
   </a>
 
   <a href="https://github.com/lisellelogan">
