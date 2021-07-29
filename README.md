@@ -10,14 +10,16 @@
   [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:liselle.logan@gmail.com)
   
 </div>
-  
-<a href="https://github.com/lisellelogan">
-  <img width="41%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisellelogan&layout=compact&border_color=FF5733&title_color=D85134&bg_color=FBE1DC" alt="Liselle's Top Langs">
-</a>
 
-<a href="https://github.com/lisellelogan">
-  <img width="49%" align="left" src="https://github-readme-stats.vercel.app/api?username=lisellelogan&show_icons=true&icon_color=FF5733&border_color=FF5733&title_color=D85134&bg_color=FBE1DC" alt="Liselle's GitHub Stats">
-</a>
+<div display="flex-box">
+  <a href="https://github.com/lisellelogan">
+    <img width="43%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisellelogan&layout=compact&border_color=FF5733&title_color=D85134&bg_color=FBE1DC" alt="Liselle's Top Langs">
+  </a>
+
+  <a href="https://github.com/lisellelogan">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=lisellelogan&show_icons=true&icon_color=FF5733&border_color=FF5733&title_color=D85134&bg_color=FBE1DC" alt="Liselle's GitHub Stats">
+  </a>
+</div>
 
 <!--- adding launguage icons here
 <div align="center">
