@@ -75,10 +75,10 @@
 
 🔭  I’m currently working on devloping my portfolio website utilizing React and SASS. 
 
-🌱  I’m currently learning more about how to style using SASS and I want to strengthen my knowledge in Python.
+🌱  I’m currently learning more about how to style using SASS and I want to strengthen my knowledge in Python.<br/>
 📈  I'm also currently learning about Data Structures and Algorithms to solidify/add to my knowledge of CS fundamentals.
 
-👯  I’m looking to collaborate on small or wide scale projects in Front-end, Back-end, or Full-Stack development whose mission is to aid/improve the lives of our society!
+👯  I’m looking to collaborate on small or wide scale projects in Front-end, Back-end, or Full-Stack development whose mission is to aid/improve the wellbeing of our society!
 
 🤔  I’m looking for help/mentorship in the tech industry and/or constructive criticism on projects I have built and/or skills that I can improve/learn.
 
