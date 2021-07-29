@@ -17,7 +17,7 @@
   </a>
 
   <a href="https://github.com/lisellelogan">
-    <img max-width="47.5%" align="left" src="https://github-readme-stats.vercel.app/api?username=lisellelogan&show_icons=true&icon_color=FF5733&border_color=FF5733&title_color=D85134&bg_color=FBE1DC" alt="Liselle's GitHub Stats">
+    <img max-width="47%" align="left" src="https://github-readme-stats.vercel.app/api?username=lisellelogan&show_icons=true&icon_color=FF5733&border_color=FF5733&title_color=D85134&bg_color=FBE1DC" alt="Liselle's GitHub Stats">
   </a>
 </div>
 
