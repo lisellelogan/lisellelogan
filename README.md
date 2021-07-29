@@ -100,7 +100,7 @@
 
 <p align="center">
   ⚡ <b>Fun fact: </b><br/>
-    I have a Pembroke Welsh Corgi Puppy named Beemo! 🐶<br/>
+    I have a Pembroke Welsh Corgi puppy named Beemo! 🐶<br/>
       <em>(Name is from Adventure Time! <strong>Bonus points if you know what I'm taking about.</strong>)</em> 🤖 
 </p>
 
