@@ -56,13 +56,16 @@
 <br/>
 
 <h2 align="center">Projects</h2>
-<div>
+<div align="center">
   
   🐾 [The Social Pup](https://github.com/lisellelogan/the-social-pup-frontend)<br/>
+  <a href="https://www.youtube.com/watch?v=ovcXDkFOLi8"><img src="https://media.giphy.com/media/3GVw3yjlJGE6598Dbe/giphy.gif" alt="Giphy of The Social Pup"></a>
   
   🌱 [smallbizsociety.](https://github.com/lisellelogan/small-biz-society-frontend)<br/>
+  <a href="https://www.youtube.com/watch?v=xaufc73i7yY"><img src="https://media.giphy.com/media/6E6H9JomKzN1SQyckI/giphy.gif" alt="Giphy of smallbizsociety."></a>
   
-  🐶 [Food for Fido](https://github.com/lisellelogan/food-for-fido)
+  🐶 [Food for Fido](https://github.com/lisellelogan/food-for-fido)<br/>
+  <a href="https://www.youtube.com/watch?v=xLypFHFCnTQ"><img src="https://media.giphy.com/media/NqrPc6nfY1F1xwPRUx/giphy.gif" alt="Giphy of Food for Fido"></a>
   
 </div>
 
