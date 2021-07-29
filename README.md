@@ -54,6 +54,10 @@
 </div>
 
 <br/>
+
+<h2 align="center">Projects</h2>
+  
+<br/>
   
 <h2 align="center">Some Things About Me</h2>
 
