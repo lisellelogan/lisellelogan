@@ -13,11 +13,11 @@
 
 <div display="flex">
   <a href="https://github.com/lisellelogan">
-    <img max-width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisellelogan&layout=compact&border_color=FF5733&title_color=D85134&bg_color=FBE1DC" alt="Liselle's Top Langs">
+    <img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisellelogan&layout=compact&border_color=FF5733&title_color=D85134&bg_color=FBE1DC" alt="Liselle's Top Langs">
   </a>
 
   <a href="https://github.com/lisellelogan">
-    <img max-width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=lisellelogan&show_icons=true&icon_color=FF5733&border_color=FF5733&title_color=D85134&bg_color=FBE1DC" alt="Liselle's GitHub Stats">
+    <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=lisellelogan&show_icons=true&icon_color=FF5733&border_color=FF5733&title_color=D85134&bg_color=FBE1DC" alt="Liselle's GitHub Stats">
   </a>
 </div>
 
