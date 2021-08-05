@@ -80,7 +80,7 @@
 
 👯  I’m looking to collaborate on small or wide scale projects in Front-end, Back-end, or Full-Stack development whose mission is to aid/improve the wellbeing of our society!
 
-🤔  I’m looking for help/mentorship in the tech industry and/or constructive criticism on projects I have built and/or skills that I can improve/learn.
+🤔  I’m looking for mentorship in the tech industry for constructive criticism on projects I have built and/or skills that I can improve/learn.
 
 <h4 align="center">
   💬 Feel free to ask me about anything!<br/>
