@@ -47,7 +47,7 @@
   <code><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5 icon"></a></code>
   <code><a href="https://sass-lang.com/"><img width="9%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS icon"></a></code>
   <code><a href="https://www.ruby-lang.org/en/"><img width="9%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" alt="Ruby icon"></a></code>
-  <code><a href="https://www.ruby-lang.org/en/"><img width="9%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" alt="Rails icon"></a></code>
+  <code><a href="https://rubyonrails.org/"><img width="9%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" alt="Rails icon"></a></code>
   <code><a href="https://github.com/"><img width="9%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub icon"></a></code>
    <code><a href="https://code.visualstudio.com/"><img width="9%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="Vscode icon"></a></code>
 
