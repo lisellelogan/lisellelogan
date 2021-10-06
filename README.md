@@ -73,7 +73,7 @@
   
 <h2 align="center">Some Things About Me</h2>
 
-🔭  I’m currently working on devloping my portfolio website utilizing React and SASS. 
+🔭  I’m currently working on devloping my portfolio website utilizing React and deployment on AWS. 
 
 🌱  I’m currently learning more about styling using SASS and I want to strengthen my knowledge in Python.<br/>
 📈  I'm also currently learning about Data Structures and Algorithms to solidify/add to my knowledge of CS fundamentals.
